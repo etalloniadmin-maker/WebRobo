@@ -1,0 +1,7 @@
+node_modules
+.next
+.env
+.env*.local
+_to_delete
+.DS_Store
+*.tsbuildinfo
